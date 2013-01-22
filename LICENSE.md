@@ -1,0 +1,1 @@
+All material is provided as is, with no warrenty whatever. I need some boilerplate here sometime soon.  In the mean time, it is all copyright RAShafer (brassratrace.com), subject to the default rules of availability of github.
